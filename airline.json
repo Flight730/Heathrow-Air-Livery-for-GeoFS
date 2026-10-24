@@ -3,13 +3,28 @@
     "color": "white",
     "bgcolor": "#9020C4",
     "aircrafts": {
-        "airbus a320-214 (Easyjet)_427352_2871": {
-            "name": "Airbus a320-214 (Easyjet)",
+        "airbus a320-214(Sri Lankan)_427352_3534": {
+            "name": "Airbus a320-214",
             "liveries": [
                 {
                     "name": "Heathrow Air HA196NW",
                     "texture": [
-                        "https://raw.githubusercontent.com/Flight_730/heathrow-air-geofs/main/heathrow_air_a320-214_2048.jpg"
+                        "https://raw.githubusercontent.com/YOUR-GITHUB-NAME/heathrow-air-geofs/main/heathrow_air_a320-214_2048.jpg"
+                    ],
+                    "credits": "Heathrow Air (lhr)"
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "3534": {
+            "name": "Airbus a320-214",
+            "liveries": [
+                {
+                    "name": "Heathrow Air HA196NW",
+                    "texture": [
+                        "https://raw.githubusercontent.com/YOUR-GITHUB-NAME/heathrow-air-geofs/main/heathrow_air_a320-214_2048.jpg"
                     ],
                     "credits": "Heathrow Air (lhr)"
                 }
