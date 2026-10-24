@@ -32,6 +32,44 @@
             "labels": [
                 "Texture"
             ]
+        },
+        "737_700": {
+            "name": "Boeing b737-700",
+            "liveries": [
+                {
+                    "name": "Heathrow Air HA196NW",
+                    "texture": [
+                        "https://www.geo-fs.com/models/aircraft/premium/737_700/normal.jpg",
+                        "https://www.geo-fs.com/models/aircraft/premium/737_700/specular.jpg",
+                        "https://raw.githubusercontent.com/Flight730/Heathrow-Air-Livery-for-GeoFS/main/heathrow_air_737-700_4096.jpg"
+                    ],
+                    "credits": "Heathrow Air (lhr)"
+                }
+            ],
+            "labels": [
+                "Normal map",
+                "Specular shader",
+                "Texture"
+            ]
+        },
+        "4": {
+            "name": "Boeing b737-700",
+            "liveries": [
+                {
+                    "name": "Heathrow Air HA196NW",
+                    "texture": [
+                        "https://www.geo-fs.com/models/aircraft/premium/737_700/normal.jpg",
+                        "https://www.geo-fs.com/models/aircraft/premium/737_700/specular.jpg",
+                        "https://raw.githubusercontent.com/Flight730/Heathrow-Air-Livery-for-GeoFS/main/heathrow_air_737-700_4096.jpg"
+                    ],
+                    "credits": "Heathrow Air (lhr)"
+                }
+            ],
+            "labels": [
+                "Normal map",
+                "Specular shader",
+                "Texture"
+            ]
         }
     }
 }
