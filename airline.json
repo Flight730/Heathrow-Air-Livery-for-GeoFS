@@ -70,6 +70,40 @@
                 "Specular shader",
                 "Texture"
             ]
+        },
+        "a350": {
+            "name": "Airbus a350-900",
+            "liveries": [
+                {
+                    "name": "Heathrow Air",
+                    "texture": [
+                        "https://www.geo-fs.com/models/aircraft/premium/a350/specular.jpg",
+                        "https://raw.githubusercontent.com/Flight730/Heathrow-Air-Livery-for-GeoFS/main/heathrow_air_a350-900.jpg"
+                    ],
+                    "credits": "Heathrow Air (lhr)"
+                }
+            ],
+            "labels": [
+                "Specular shader",
+                "Texture"
+            ]
+        },
+        "24": {
+            "name": "Airbus a350-900",
+            "liveries": [
+                {
+                    "name": "Heathrow Air",
+                    "texture": [
+                        "https://www.geo-fs.com/models/aircraft/premium/a350/specular.jpg",
+                        "https://raw.githubusercontent.com/Flight730/Heathrow-Air-Livery-for-GeoFS/main/heathrow_air_a350-900.jpg"
+                    ],
+                    "credits": "Heathrow Air (lhr)"
+                }
+            ],
+            "labels": [
+                "Specular shader",
+                "Texture"
+            ]
         }
     }
 }
