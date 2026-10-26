@@ -111,7 +111,7 @@
                 {
                     "name": "Heathrow Air HA196NW",
                     "texture": [
-                        "https://raw.githubusercontent.com/Flight730/Heathrow-Air-Livery-for-GeoFS/main/heathrow_air_atr72-600_4096.jpg",
+                        "https://raw.githubusercontent.com/Flight730/Heathrow-Air-Livery-for-GeoFS/main/heathrow_air_atr72-600_2048.jpg",
                         "https://cdn.jsdelivr.net/gh/kolos26/GEOFS-LiverySelector@main/liveries/ATR_72-600/shaders/ATR_Normal.webp",
                         "https://cdn.jsdelivr.net/gh/kolos26/GEOFS-LiverySelector@main/liveries/ATR_72-600/shaders/ATR_Metallic.webp"
                     ],
@@ -130,7 +130,7 @@
                 {
                     "name": "Heathrow Air HA196NW",
                     "texture": [
-                        "https://raw.githubusercontent.com/Flight730/Heathrow-Air-Livery-for-GeoFS/main/heathrow_air_atr72-600_4096.jpg",
+                        "https://raw.githubusercontent.com/Flight730/Heathrow-Air-Livery-for-GeoFS/main/heathrow_air_atr72-600_2048.jpg",
                         "https://cdn.jsdelivr.net/gh/kolos26/GEOFS-LiverySelector@main/liveries/ATR_72-600/shaders/ATR_Normal.webp",
                         "https://cdn.jsdelivr.net/gh/kolos26/GEOFS-LiverySelector@main/liveries/ATR_72-600/shaders/ATR_Metallic.webp"
                     ],
