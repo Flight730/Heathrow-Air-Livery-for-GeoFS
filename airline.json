@@ -206,6 +206,36 @@
             "labels": [
                 "Texture"
             ]
+        },
+        "F-15C_450602_3591": {
+            "name": "McDonnell Douglas F-15C Eagle",
+            "liveries": [
+                {
+                    "name": "Heathrow Air",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Flight730/Heathrow-Air-Livery-for-GeoFS/main/heathrow_air_f-15c_2048.jpg"
+                    ],
+                    "credits": "Heathrow Air (lhr)"
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "3591": {
+            "name": "McDonnell Douglas F-15C Eagle",
+            "liveries": [
+                {
+                    "name": "Heathrow Air",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Flight730/Heathrow-Air-Livery-for-GeoFS/main/heathrow_air_f-15c_2048.jpg"
+                    ],
+                    "credits": "Heathrow Air (lhr)"
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
         }
     }
 }
