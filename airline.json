@@ -176,6 +176,36 @@
                 "Specular shader",
                 "Texture"
             ]
+        },
+        "Airbus A340-600_1388057_5998": {
+            "name": "Airbus a340-600",
+            "liveries": [
+                {
+                    "name": "Heathrow Air HA196NW",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Flight730/Heathrow-Air-Livery-for-GeoFS/main/heathrow_air_a340-600_4096.jpg"
+                    ],
+                    "credits": "Heathrow Air (lhr)"
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "5998": {
+            "name": "Airbus a340-600",
+            "liveries": [
+                {
+                    "name": "Heathrow Air HA196NW",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Flight730/Heathrow-Air-Livery-for-GeoFS/main/heathrow_air_a340-600_4096.jpg"
+                    ],
+                    "credits": "Heathrow Air (lhr)"
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
         }
     }
 }
