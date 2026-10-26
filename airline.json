@@ -142,6 +142,40 @@
                 "Normal map",
                 "Metallic shader"
             ]
+        },
+        "777_300": {
+            "name": "Boeing b777-300ER",
+            "liveries": [
+                {
+                    "name": "Heathrow Air HA196NW",
+                    "texture": [
+                        "https://www.geo-fs.com/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/Flight730/Heathrow-Air-Livery-for-GeoFS/main/heathrow_air_777-300er_4096.jpg"
+                    ],
+                    "credits": "Heathrow Air (lhr)"
+                }
+            ],
+            "labels": [
+                "Specular shader",
+                "Texture"
+            ]
+        },
+        "25": {
+            "name": "Boeing b777-300ER",
+            "liveries": [
+                {
+                    "name": "Heathrow Air HA196NW",
+                    "texture": [
+                        "https://www.geo-fs.com/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/Flight730/Heathrow-Air-Livery-for-GeoFS/main/heathrow_air_777-300er_4096.jpg"
+                    ],
+                    "credits": "Heathrow Air (lhr)"
+                }
+            ],
+            "labels": [
+                "Specular shader",
+                "Texture"
+            ]
         }
     }
 }
