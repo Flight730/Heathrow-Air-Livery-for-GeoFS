@@ -104,6 +104,44 @@
                 "Specular shader",
                 "Texture"
             ]
+        },
+        "ATR 72-600 (SAS)_267286_2420": {
+            "name": "ATR 72-600",
+            "liveries": [
+                {
+                    "name": "Heathrow Air HA196NW",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Flight730/Heathrow-Air-Livery-for-GeoFS/main/heathrow_air_atr72-600_4096.jpg",
+                        "https://cdn.jsdelivr.net/gh/kolos26/GEOFS-LiverySelector@main/liveries/ATR_72-600/shaders/ATR_Normal.webp",
+                        "https://cdn.jsdelivr.net/gh/kolos26/GEOFS-LiverySelector@main/liveries/ATR_72-600/shaders/ATR_Metallic.webp"
+                    ],
+                    "credits": "Heathrow Air (lhr)"
+                }
+            ],
+            "labels": [
+                "Texture",
+                "Normal map",
+                "Metallic shader"
+            ]
+        },
+        "2420": {
+            "name": "ATR 72-600",
+            "liveries": [
+                {
+                    "name": "Heathrow Air HA196NW",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Flight730/Heathrow-Air-Livery-for-GeoFS/main/heathrow_air_atr72-600_4096.jpg",
+                        "https://cdn.jsdelivr.net/gh/kolos26/GEOFS-LiverySelector@main/liveries/ATR_72-600/shaders/ATR_Normal.webp",
+                        "https://cdn.jsdelivr.net/gh/kolos26/GEOFS-LiverySelector@main/liveries/ATR_72-600/shaders/ATR_Metallic.webp"
+                    ],
+                    "credits": "Heathrow Air (lhr)"
+                }
+            ],
+            "labels": [
+                "Texture",
+                "Normal map",
+                "Metallic shader"
+            ]
         }
     }
 }
